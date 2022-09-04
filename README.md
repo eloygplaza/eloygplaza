@@ -2,7 +2,8 @@
 # 👋 Hi, I’m @eloygplaza
 I'm a Junior full-stack developer working on web technologies 👨🏻‍💻
 ## :sparkles: About me
-- 
+- Currently developing projects for my portfolio
+- Looking to improve and create great stuff
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->

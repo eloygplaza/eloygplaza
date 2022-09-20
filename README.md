@@ -8,7 +8,7 @@ I'm a Junior full-stack developer working on web technologies 👨🏻‍💻
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
 ## 📫 How to reach me
-**Web:** [eloygplaza.dev](https://eloygplaza.github.io/)<br><br>
+**Web:** [eloygplaza.github.io](https://eloygplaza.github.io/)<br><br>
 **LinkedIn:** [Eloy Garcia](https://www.linkedin.com/in/eloygplaza/)<br><br>
 **Instagram:** [@eloygplaza](https://www.instagram.com/eloygplaza/)<br><br>
 <!---

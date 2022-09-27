@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @eloygplaza
-I'm a Junior full-stack developer working on web technologies 👨🏻‍💻
+I'm a Junior full-stack web developer working on web technologies 👨🏻‍💻
 ## :sparkles: About me
 - Currently developing projects for my portfolio
 - Looking to improve and create great stuff

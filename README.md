@@ -22,12 +22,15 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 ![springboot](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/springboot.png "Spring Boot")
 ![androidstudio](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/androidstudio.png "Android Studio")
 ![laravel](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/laravel.png "Laravel")-->
+![vue](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/vue-logo.png "Vue JS")
 ![react](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/react.png "React JS")
+![codeigniter](https://eloygplaza.github.io/resources/images/codeigniter.png "Codeigniter")
 ![node](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/nodejs.png "Node JS")
-![apachecordova](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/apachecordova.png "Apache Cordova")
 ![jquery](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/jquery.png "JQuery")
+![bulma](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/bulma-logo.png "Bulma")
 ![bootstrap](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/bootstrap.png "Bootstrap")
 ![nodesass](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/sass.png "SASS")
+![apachecordova](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/apachecordova.png "Apache Cordova")
 <!--![semanticui](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/semanticui.png "Semantic UI")-->
 
 ## Databases

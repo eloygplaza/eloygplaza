@@ -1,9 +1,10 @@
 
 # 👋 Hi, I’m @eloygplaza
 I'm a Junior full-stack web developer working on web technologies 👨🏻‍💻
-# My Skills
 
-## Languages
+## My Skills
+
+### Languages
 
 <!--![java](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/languages/java.png "Java")-->
 ![html](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/languages/html.png "HTML")
@@ -15,7 +16,7 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 ![json](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/languages/json.png "JSON")
 ![xml](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/languages/xml.png "XML")
 
-## Frameworks
+### Frameworks
 
 <!--![javaswing](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/javaswing.png "Java Swing")
 ![javafx](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/javafx.png "Java FX")
@@ -33,14 +34,14 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 ![apachecordova](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/apachecordova.png "Apache Cordova")
 <!--![semanticui](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/semanticui.png "Semantic UI")-->
 
-## Databases
+### Databases
 
 <!--![mongodb](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/databases/mongodb.png "MongoDB")-->
 ![MySQL](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/databases/mysql.png "MySQL")
 ![oracle](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/databases/oracle.png "Oracle SQL")
 ![phpmyadmin](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/databases/phpmyadmin.png "PhpMyAdmin")
 
-## Others
+### Others
 
 ![git](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/others/git.png "Git")
 ![vscode](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/others/vscode.png "Visual Studio Code")
@@ -53,6 +54,7 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
+
 ## 📫 How to reach me
 [![linkedin](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/social/linkedin.png)](https://www.linkedin.com/in/eloygplaza/) 
 [![instagram](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/social/instagram.png)](https://www.instagram.com/eloygplaza/)
@@ -64,15 +66,3 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 eloygplaza/eloygplaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-
-
-
----
-
-# Social Links
-

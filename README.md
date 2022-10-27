@@ -27,7 +27,7 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 ![codeigniter](https://raw.githubusercontent.com/eloygplaza/eloygplaza/main/images/frameworks/codeigniter-logo.png "Codeigniter")
 ![node](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/nodejs.png "Node JS")
 ![jquery](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/jquery.png "JQuery")
-![bulma](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/bulma-logo.png "Bulma")
+![bulma](https://raw.githubusercontent.com/eloygplaza/eloygplaza/main/images/frameworks/bulma-logo.png "Bulma")
 ![bootstrap](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/bootstrap.png "Bootstrap")
 ![nodesass](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/sass.png "SASS")
 ![apachecordova](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/frameworks/apachecordova.png "Apache Cordova")

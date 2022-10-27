@@ -46,7 +46,8 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 ![vscode](https://raw.githubusercontent.com/eloygplaza/eloygplaza/a2eb879735bc38995e507dd11cc62413da396e31/images/others/vscode.png "Visual Studio Code")
 
 ## :sparkles: About me
-- Working at Nexus Geographics
+
+- Working at Nexus Geographics ![Nexus Geographics](https://www.linkedin.com/company/nexus-geographics/ "Nexus Geographics")
 - Currently developing projects for my portfolio
 - Looking to improve and create great stuff
 <!--- 👀 I’m interested in ...

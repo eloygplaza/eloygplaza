@@ -48,7 +48,7 @@ I'm a Junior full-stack web developer working on web technologies 👨🏻‍�
 
 ## :sparkles: About me
 
-- Currently working at [Nexus Geographics](https://www.linkedin.com/company/nexus-geographics/)
+- Currently working as a junior full-stack web developer at [Nexus Geographics](https://www.linkedin.com/company/nexus-geographics/)
 - Developing projects for my portfolio
 - Looking to improve and create great stuff
 <!--- 👀 I’m interested in ...

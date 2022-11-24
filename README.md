@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @eloygplaza
-I'm a Junior full-stack developer 👨🏻‍💻
+I'm a full-stack developer 👨🏻‍💻
 
 ## My Skills
 
